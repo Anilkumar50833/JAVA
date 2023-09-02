@@ -1,0 +1,215 @@
+SDLC
+=====
+SDLC stands for Software Development Life Cycle.
+
+SDLC is a process adopt by IT industry to develop accurate and quality of softwares.
+
+There are six phases in SDLC.
+
+1)Feasibility study 
+
+2)Analysis 
+
+3)Designing 
+
+4)Coding 
+
+5)Testing 
+
+6)Delivery and Maintainence
+
+1)Feasibility study 
+--------------------
+This phase is completely depends on "TELOS" formulea.
+ex:
+	T - Technical Feasibility
+	E - Economical Feasibility
+	L - Legal Feasibility
+	O - Operational Feasibility
+	S - Schedule Feasibility
+
+All the above information they will keep in a document called BDD.
+
+BDD stands for Business Design Document.
+
+
+2)Analysis phase
+----------------
+In analysis phase  system analyst or product owner will involved.
+
+They will seperate system requirements and software requirements. 
+
+That information they will keep in a document called SRS.
+
+SRS stands for Software Requirement Specification.
+
+
+3)Designing phase
+------------------
+We have two types of designing.
+
+1)High Level Designing 
+--------------------
+	In high level designing we will design major/main modules.
+	Manager is responsible to perform high level designing.
+
+2)Low Level Designing 
+--------------------
+	In low level designing we will design child/sub modules.
+	Team Lead/Project Lead is responsible to perform low level designing.
+
+Above information they will keep in a document called PDD/TDD.
+PDD stands for Project Design Document.
+TDD stands for Technical Design Document.
+
+
+4)Coding phase
+----------------
+In this phase developers will involved.
+
+A developer is responsible to generate the code (Build).
+
+Before sending the build to testing team , developer is responsible to perform 
+white box testing.
+
+
+5) Testing phase 
+------------------
+In this phase , testing team or QA team will involved.
+
+Team team will test our build by using a software component called STLC.
+
+STLC stands for Software Testing Life Cycle.
+
+After STLC , A testing team is responsible to perform black box testing.
+
+
+6) Delivery and Maintainence
+---------------------------
+Before delivery of project  we will perform UAT testing.
+
+UAT stands User Acceptance Testing.
+
+UAT testing divided into two types.
+
+	i) Alpha testing 
+
+	ii) Beta testing 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
